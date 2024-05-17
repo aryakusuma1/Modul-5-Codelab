@@ -1,4 +1,5 @@
-Latihan 1
+# Latihan 1
+
 Pre Order: 
 20 2 37 12 25 16 
 
@@ -13,7 +14,8 @@ In Order:
 Post Order: 
 37 12 2 16 25 20 
 
-latihan 2
+# latihan 2
+
 Pre Order: 
 20 2 16 25 37 
 
